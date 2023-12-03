@@ -40,6 +40,7 @@ header {
 .navbar .logo {
     font-size: 1.5rem;
     font-weight: bold;
+    
 }
 .navbar .logo a {
     font-size: 1.5rem;
@@ -91,12 +92,17 @@ header {
 h1 {
     padding: 20px;
 }
+h2 {
+    padding: 20px;
+}
 .zone2 p {
     padding: 20px;
 }
 footer {
     display: flex;
     justify-content: center;
+    padding: 20px;
+    margin: 10px;
 }
 footer img {
     width: 25px;
